@@ -20,5 +20,8 @@ Check out the live demo here:
 
 
 # 🎯 Features
-Single Theme: Modern and clean UI with subtle animations.
-Responsive Design: Optimized for all screen sizes.
+<Ul>
+    <li>Single Theme: Modern and clean UI with subtle animations.</li>
+    <li>Responsive Design: Optimized for all screen sizes.</li>
+</Ul>
+
