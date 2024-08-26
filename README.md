@@ -25,3 +25,6 @@ Check out the live demo here:
     <li>Responsive Design: Optimized for all screen sizes.</li>
 </Ul>
 
+# Author
+Mohit Vaishnav
+
