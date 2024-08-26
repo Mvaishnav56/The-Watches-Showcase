@@ -9,10 +9,10 @@ Check out the live demo here:
 </a>
 
 # 🛠️ Tech Stack
-HTML5
-CSS3
-JavaScript
-GSAP (GreenSock Animation Platform)
+> HTML5
+> CSS3
+> JavaScript
+> GSAP (GreenSock Animation Platform)
 # 🎯 Features
 Single Theme: Modern and clean UI with subtle animations.
 Responsive Design: Optimized for all screen sizes.
