@@ -4,7 +4,9 @@ A simple, responsive website showcasing various watches with their prices. Built
 
 # 🌐 Live Demo
 Check out the live demo here:
-Watch Showcase UI
+<a href="https://the-watches-animated-showcase.netlify.app/" target="_blank" rel="noopener noreferrer">
+    Watch Showcase UI
+</a>
 
 # 🛠️ Tech Stack
 HTML5
