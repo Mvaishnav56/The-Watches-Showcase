@@ -2,17 +2,23 @@
 
 A simple, responsive website showcasing various watches with their prices. Built with HTML, CSS, JavaScript, and GSAP for smooth animations.
 
+
 # 🌐 Live Demo
 Check out the live demo here:
 <a href="https://mvaishnav56.github.io/The-Watches-Showcase/">
     Watch Showcase UI
 </a>
 
+
 # 🛠️ Tech Stack
-> HTML5
-> CSS3
-> JavaScript
-> GSAP (GreenSock Animation Platform)
+<ol>
+<li>HTML</li>
+<li>CSS</li>
+<li>JS</li>
+<li>GSAP</li>
+</ol>
+
+
 # 🎯 Features
 Single Theme: Modern and clean UI with subtle animations.
 Responsive Design: Optimized for all screen sizes.
